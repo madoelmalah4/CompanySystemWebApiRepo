@@ -263,17 +263,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Employee"
+                "$ref": "#/components/schemas/Employee_DTO_Get"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Employee"
+                "$ref": "#/components/schemas/Employee_DTO_Get"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Employee"
+                "$ref": "#/components/schemas/Employee_DTO_Get"
               }
             }
           }
@@ -596,6 +596,20 @@
           },
           "contract": {
             "$ref": "#/components/schemas/Contract"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Employee_DTO_Get": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "position": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false

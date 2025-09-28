@@ -167,7 +167,7 @@
     "Parameters": [
       {
         "Name": "employee",
-        "Type": "CompanyManagmentSystem.Models.Employee",
+        "Type": "CompanyManagmentSystem.Models.DTOs.Employee_DTO_Get",
         "IsRequired": true
       }
     ],

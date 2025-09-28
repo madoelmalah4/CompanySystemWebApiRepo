@@ -171,3 +171,4 @@ C:\Users\E.J.S\source\repos\CompanyManagmentSystem\CompanyManagmentSystem\obj\De
 C:\Users\E.J.S\source\repos\CompanyManagmentSystem\CompanyManagmentSystem\obj\Debug\net8.0\ref\CompanyManagmentSystem.dll
 C:\Users\E.J.S\source\repos\CompanyManagmentSystem\CompanyManagmentSystem\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\E.J.S\source\repos\CompanyManagmentSystem\CompanyManagmentSystem\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\E.J.S\source\repos\CompanyManagmentSystem\CompanyManagmentSystem\obj\Debug\net8.0\CompanyManagmentSystem.sourcelink.json

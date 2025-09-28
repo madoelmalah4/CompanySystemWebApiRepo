@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\E.J.S\\source\\repos\\CompanyManagmentSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9F07C18-79B1-48B1-A21F-835593446DA2}|CompanyManagmentSystem\\CompanyManagmentSystem.csproj|c:\\users\\e.j.s\\source\\repos\\companymanagmentsystem\\companymanagmentsystem\\controllers\\contractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9F07C18-79B1-48B1-A21F-835593446DA2}|CompanyManagmentSystem\\CompanyManagmentSystem.csproj|solutionrelative:companymanagmentsystem\\controllers\\contractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F9F07C18-79B1-48B1-A21F-835593446DA2}|CompanyManagmentSystem\\CompanyManagmentSystem.csproj|c:\\users\\e.j.s\\source\\repos\\companymanagmentsystem\\companymanagmentsystem\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9F07C18-79B1-48B1-A21F-835593446DA2}|CompanyManagmentSystem\\CompanyManagmentSystem.csproj|solutionrelative:companymanagmentsystem\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9F07C18-79B1-48B1-A21F-835593446DA2}|CompanyManagmentSystem\\CompanyManagmentSystem.csproj|c:\\users\\e.j.s\\source\\repos\\companymanagmentsystem\\companymanagmentsystem\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9F07C18-79B1-48B1-A21F-835593446DA2}|CompanyManagmentSystem\\CompanyManagmentSystem.csproj|solutionrelative:companymanagmentsystem\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9F07C18-79B1-48B1-A21F-835593446DA2}|CompanyManagmentSystem\\CompanyManagmentSystem.csproj|c:\\users\\e.j.s\\source\\repos\\companymanagmentsystem\\companymanagmentsystem\\models\\dtos\\employee_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F07C18-79B1-48B1-A21F-835593446DA2}|CompanyManagmentSystem\\CompanyManagmentSystem.csproj|solutionrelative:companymanagmentsystem\\models\\dtos\\employee_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F07C18-79B1-48B1-A21F-835593446DA2}|CompanyManagmentSystem\\CompanyManagmentSystem.csproj|c:\\users\\e.j.s\\source\\repos\\companymanagmentsystem\\companymanagmentsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F07C18-79B1-48B1-A21F-835593446DA2}|CompanyManagmentSystem\\CompanyManagmentSystem.csproj|solutionrelative:companymanagmentsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9F07C18-79B1-48B1-A21F-835593446DA2}|CompanyManagmentSystem\\CompanyManagmentSystem.csproj|c:\\users\\e.j.s\\source\\repos\\companymanagmentsystem\\companymanagmentsystem\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9F07C18-79B1-48B1-A21F-835593446DA2}|CompanyManagmentSystem\\CompanyManagmentSystem.csproj|solutionrelative:companymanagmentsystem\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E.J.S\\source\\repos\\CompanyManagmentSystem\\CompanyManagmentSystem\\Migrations\\20250927121838_EditingNallabuleBalues123456.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CompanyManagmentSystem\\Migrations\\20250927121838_EditingNallabuleBalues123456.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9F07C18-79B1-48B1-A21F-835593446DA2}|CompanyManagmentSystem\\CompanyManagmentSystem.csproj|c:\\users\\e.j.s\\source\\repos\\companymanagmentsystem\\companymanagmentsystem\\controllers\\contractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F07C18-79B1-48B1-A21F-835593446DA2}|CompanyManagmentSystem\\CompanyManagmentSystem.csproj|solutionrelative:companymanagmentsystem\\controllers\\contractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9F07C18-79B1-48B1-A21F-835593446DA2}|CompanyManagmentSystem\\CompanyManagmentSystem.csproj|c:\\users\\e.j.s\\source\\repos\\companymanagmentsystem\\companymanagmentsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9F07C18-79B1-48B1-A21F-835593446DA2}|CompanyManagmentSystem\\CompanyManagmentSystem.csproj|solutionrelative:companymanagmentsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9F07C18-79B1-48B1-A21F-835593446DA2}|CompanyManagmentSystem\\CompanyManagmentSystem.csproj|c:\\users\\e.j.s\\source\\repos\\companymanagmentsystem\\companymanagmentsystem\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F07C18-79B1-48B1-A21F-835593446DA2}|CompanyManagmentSystem\\CompanyManagmentSystem.csproj|solutionrelative:companymanagmentsystem\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9F07C18-79B1-48B1-A21F-835593446DA2}|CompanyManagmentSystem\\CompanyManagmentSystem.csproj|c:\\users\\e.j.s\\source\\repos\\companymanagmentsystem\\companymanagmentsystem\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,16 +35,8 @@
       "RelativeMoniker": "D:0:0:{F9F07C18-79B1-48B1-A21F-835593446DA2}|CompanyManagmentSystem\\CompanyManagmentSystem.csproj|solutionrelative:companymanagmentsystem\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E.J.S\\source\\repos\\CompanyManagmentSystem\\CompanyManagmentSystem\\Migrations\\20250927110151_EditingNallabuleBalues1234.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CompanyManagmentSystem\\Migrations\\20250927110151_EditingNallabuleBalues1234.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F9F07C18-79B1-48B1-A21F-835593446DA2}|CompanyManagmentSystem\\CompanyManagmentSystem.csproj|c:\\users\\e.j.s\\source\\repos\\companymanagmentsystem\\companymanagmentsystem\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9F07C18-79B1-48B1-A21F-835593446DA2}|CompanyManagmentSystem\\CompanyManagmentSystem.csproj|solutionrelative:companymanagmentsystem\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E.J.S\\source\\repos\\CompanyManagmentSystem\\CompanyManagmentSystem\\Migrations\\20250927102421_EditingNallabuleBalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CompanyManagmentSystem\\Migrations\\20250927102421_EditingNallabuleBalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E.J.S\\source\\repos\\CompanyManagmentSystem\\CompanyManagmentSystem\\Migrations\\20250927101838_EditingNallabuleBalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,6 +53,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{F9F07C18-79B1-48B1-A21F-835593446DA2}|CompanyManagmentSystem\\CompanyManagmentSystem.csproj|c:\\users\\e.j.s\\source\\repos\\companymanagmentsystem\\companymanagmentsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F9F07C18-79B1-48B1-A21F-835593446DA2}|CompanyManagmentSystem\\CompanyManagmentSystem.csproj|solutionrelative:companymanagmentsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F07C18-79B1-48B1-A21F-835593446DA2}|CompanyManagmentSystem\\CompanyManagmentSystem.csproj|c:\\users\\e.j.s\\source\\repos\\companymanagmentsystem\\companymanagmentsystem\\migrations\\20250927121838_editingnallabulebalues123456.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F07C18-79B1-48B1-A21F-835593446DA2}|CompanyManagmentSystem\\CompanyManagmentSystem.csproj|solutionrelative:companymanagmentsystem\\migrations\\20250927121838_editingnallabulebalues123456.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F07C18-79B1-48B1-A21F-835593446DA2}|CompanyManagmentSystem\\CompanyManagmentSystem.csproj|c:\\users\\e.j.s\\source\\repos\\companymanagmentsystem\\companymanagmentsystem\\migrations\\20250927102421_editingnallabulebalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F07C18-79B1-48B1-A21F-835593446DA2}|CompanyManagmentSystem\\CompanyManagmentSystem.csproj|solutionrelative:companymanagmentsystem\\migrations\\20250927102421_editingnallabulebalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F07C18-79B1-48B1-A21F-835593446DA2}|CompanyManagmentSystem\\CompanyManagmentSystem.csproj|c:\\users\\e.j.s\\source\\repos\\companymanagmentsystem\\companymanagmentsystem\\migrations\\20250927110151_editingnallabulebalues1234.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F07C18-79B1-48B1-A21F-835593446DA2}|CompanyManagmentSystem\\CompanyManagmentSystem.csproj|solutionrelative:companymanagmentsystem\\migrations\\20250927110151_editingnallabulebalues1234.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,33 +82,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Employee_DTO.cs",
+              "DocumentMoniker": "C:\\Users\\E.J.S\\source\\repos\\CompanyManagmentSystem\\CompanyManagmentSystem\\Models\\DTOs\\Employee_DTO.cs",
+              "RelativeDocumentMoniker": "CompanyManagmentSystem\\Models\\DTOs\\Employee_DTO.cs",
+              "ToolTip": "C:\\Users\\E.J.S\\source\\repos\\CompanyManagmentSystem\\CompanyManagmentSystem\\Models\\DTOs\\Employee_DTO.cs",
+              "RelativeToolTip": "CompanyManagmentSystem\\Models\\DTOs\\Employee_DTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T20:14:26.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ContractController.cs",
               "DocumentMoniker": "C:\\Users\\E.J.S\\source\\repos\\CompanyManagmentSystem\\CompanyManagmentSystem\\Controllers\\ContractController.cs",
               "RelativeDocumentMoniker": "CompanyManagmentSystem\\Controllers\\ContractController.cs",
-              "ToolTip": "C:\\Users\\E.J.S\\source\\repos\\CompanyManagmentSystem\\CompanyManagmentSystem\\Controllers\\ContractController.cs*",
-              "RelativeToolTip": "CompanyManagmentSystem\\Controllers\\ContractController.cs*",
-              "ViewState": "AgIAABIAAAAAlZmZmRkfwBkAAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\E.J.S\\source\\repos\\CompanyManagmentSystem\\CompanyManagmentSystem\\Controllers\\ContractController.cs",
+              "RelativeToolTip": "CompanyManagmentSystem\\Controllers\\ContractController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-27T12:22:46.788Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20250927121838_EditingNallabuleBalues123456.cs",
-              "DocumentMoniker": "C:\\Users\\E.J.S\\source\\repos\\CompanyManagmentSystem\\CompanyManagmentSystem\\Migrations\\20250927121838_EditingNallabuleBalues123456.cs",
-              "RelativeDocumentMoniker": "CompanyManagmentSystem\\Migrations\\20250927121838_EditingNallabuleBalues123456.cs",
-              "ToolTip": "C:\\Users\\E.J.S\\source\\repos\\CompanyManagmentSystem\\CompanyManagmentSystem\\Migrations\\20250927121838_EditingNallabuleBalues123456.cs",
-              "RelativeToolTip": "CompanyManagmentSystem\\Migrations\\20250927121838_EditingNallabuleBalues123456.cs",
-              "ViewState": "AgIAAAkAAACAAAAAAAAQwAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T12:18:38.402Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "C:\\Users\\E.J.S\\source\\repos\\CompanyManagmentSystem\\CompanyManagmentSystem\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "CompanyManagmentSystem\\Controllers\\DepartmentController.cs",
@@ -112,8 +116,7 @@
               "RelativeToolTip": "CompanyManagmentSystem\\Controllers\\DepartmentController.cs",
               "ViewState": "AgIAACQAAACALDMzM3MtwDMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T12:04:24.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-27T12:04:24.811Z"
             },
             {
               "$type": "Document",
@@ -125,12 +128,11 @@
               "RelativeToolTip": "CompanyManagmentSystem\\Controllers\\ProjectController.cs",
               "ViewState": "AgIAADMAAACAlZmZmRk5wEkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T10:55:57.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-27T10:55:57.937Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "20250927102421_EditingNallabuleBalues.cs",
               "DocumentMoniker": "C:\\Users\\E.J.S\\source\\repos\\CompanyManagmentSystem\\CompanyManagmentSystem\\Migrations\\20250927102421_EditingNallabuleBalues.cs",
               "RelativeDocumentMoniker": "CompanyManagmentSystem\\Migrations\\20250927102421_EditingNallabuleBalues.cs",
@@ -138,12 +140,11 @@
               "RelativeToolTip": "CompanyManagmentSystem\\Migrations\\20250927102421_EditingNallabuleBalues.cs",
               "ViewState": "AgIAACYAAACA+/////8fwDQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T10:24:21.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-27T10:24:21.322Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "20250927101838_EditingNallabuleBalues.cs",
               "DocumentMoniker": "C:\\Users\\E.J.S\\source\\repos\\CompanyManagmentSystem\\CompanyManagmentSystem\\Migrations\\20250927101838_EditingNallabuleBalues.cs",
               "RelativeDocumentMoniker": "CompanyManagmentSystem\\Migrations\\20250927101838_EditingNallabuleBalues.cs",
@@ -151,20 +152,32 @@
               "RelativeToolTip": "CompanyManagmentSystem\\Migrations\\20250927101838_EditingNallabuleBalues.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T10:18:38.509Z",
+              "WhenOpened": "2025-09-27T10:18:38.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\E.J.S\\source\\repos\\CompanyManagmentSystem\\CompanyManagmentSystem\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "CompanyManagmentSystem\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\E.J.S\\source\\repos\\CompanyManagmentSystem\\CompanyManagmentSystem\\Controllers\\EmployeesController.cs*",
+              "RelativeToolTip": "CompanyManagmentSystem\\Controllers\\EmployeesController.cs*",
+              "ViewState": "AgIAABUAAADgr8zMzMwDwCEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T21:54:31.596Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmployeesController.cs",
-              "DocumentMoniker": "C:\\Users\\E.J.S\\source\\repos\\CompanyManagmentSystem\\CompanyManagmentSystem\\Controllers\\EmployeesController.cs",
-              "RelativeDocumentMoniker": "CompanyManagmentSystem\\Controllers\\EmployeesController.cs",
-              "ToolTip": "C:\\Users\\E.J.S\\source\\repos\\CompanyManagmentSystem\\CompanyManagmentSystem\\Controllers\\EmployeesController.cs",
-              "RelativeToolTip": "CompanyManagmentSystem\\Controllers\\EmployeesController.cs",
-              "ViewState": "AgIAABYAAADg/v////84wCUAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\E.J.S\\source\\repos\\CompanyManagmentSystem\\CompanyManagmentSystem\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CompanyManagmentSystem\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\E.J.S\\source\\repos\\CompanyManagmentSystem\\CompanyManagmentSystem\\Models\\Employee.cs",
+              "RelativeToolTip": "CompanyManagmentSystem\\Models\\Employee.cs",
+              "ViewState": "AgIAAAQAAAAAMjMzMzMbwBEAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T21:54:31.596Z",
+              "WhenOpened": "2025-09-23T21:44:53.861Z",
               "EditorCaption": ""
             },
             {
@@ -182,6 +195,18 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250927121838_EditingNallabuleBalues123456.cs",
+              "DocumentMoniker": "C:\\Users\\E.J.S\\source\\repos\\CompanyManagmentSystem\\CompanyManagmentSystem\\Migrations\\20250927121838_EditingNallabuleBalues123456.cs",
+              "RelativeDocumentMoniker": "CompanyManagmentSystem\\Migrations\\20250927121838_EditingNallabuleBalues123456.cs",
+              "ToolTip": "C:\\Users\\E.J.S\\source\\repos\\CompanyManagmentSystem\\CompanyManagmentSystem\\Migrations\\20250927121838_EditingNallabuleBalues123456.cs",
+              "RelativeToolTip": "CompanyManagmentSystem\\Migrations\\20250927121838_EditingNallabuleBalues123456.cs",
+              "ViewState": "AgIAAAkAAACAAAAAAAAQwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T12:18:38.402Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\E.J.S\\source\\repos\\CompanyManagmentSystem\\CompanyManagmentSystem\\Models\\Department.cs",
@@ -190,12 +215,11 @@
               "RelativeToolTip": "CompanyManagmentSystem\\Models\\Department.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T21:48:17.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T21:48:17.429Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Project.cs",
               "DocumentMoniker": "C:\\Users\\E.J.S\\source\\repos\\CompanyManagmentSystem\\CompanyManagmentSystem\\Models\\Project.cs",
               "RelativeDocumentMoniker": "CompanyManagmentSystem\\Models\\Project.cs",
@@ -203,25 +227,11 @@
               "RelativeToolTip": "CompanyManagmentSystem\\Models\\Project.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T21:46:39.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T21:46:39.063Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\E.J.S\\source\\repos\\CompanyManagmentSystem\\CompanyManagmentSystem\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "CompanyManagmentSystem\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\E.J.S\\source\\repos\\CompanyManagmentSystem\\CompanyManagmentSystem\\Models\\Employee.cs",
-              "RelativeToolTip": "CompanyManagmentSystem\\Models\\Employee.cs",
-              "ViewState": "AgIAAAQAAAAAMjMzMzMbwA8AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T21:44:53.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "20250927110151_EditingNallabuleBalues1234.cs",
               "DocumentMoniker": "C:\\Users\\E.J.S\\source\\repos\\CompanyManagmentSystem\\CompanyManagmentSystem\\Migrations\\20250927110151_EditingNallabuleBalues1234.cs",
               "RelativeDocumentMoniker": "CompanyManagmentSystem\\Migrations\\20250927110151_EditingNallabuleBalues1234.cs",
@@ -229,12 +239,11 @@
               "RelativeToolTip": "CompanyManagmentSystem\\Migrations\\20250927110151_EditingNallabuleBalues1234.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T11:01:51.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-27T11:01:51.416Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\E.J.S\\source\\repos\\CompanyManagmentSystem\\CompanyManagmentSystem\\Program.cs",
               "RelativeDocumentMoniker": "CompanyManagmentSystem\\Program.cs",
@@ -242,12 +251,11 @@
               "RelativeToolTip": "CompanyManagmentSystem\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T21:42:59.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T21:42:59.483Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\E.J.S\\source\\repos\\CompanyManagmentSystem\\CompanyManagmentSystem\\appsettings.json",
               "RelativeDocumentMoniker": "CompanyManagmentSystem\\appsettings.json",
@@ -259,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\E.J.S\\source\\repos\\CompanyManagmentSystem\\CompanyManagmentSystem\\Models\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "CompanyManagmentSystem\\Models\\Data\\AppDbContext.cs",

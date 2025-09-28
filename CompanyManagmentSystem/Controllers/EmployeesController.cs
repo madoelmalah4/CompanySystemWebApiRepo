@@ -3,7 +3,7 @@ using CompanyManagmentSystem.Models;
 using CompanyManagmentSystem.Models.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-
+using CompanyManagmentSystem.Models.DTOs;
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace CompanyManagmentSystem.Controllers
@@ -20,13 +20,17 @@ namespace CompanyManagmentSystem.Controllers
         }
 
         [HttpPost]
-        public IActionResult CreateEmployee(Employee employee)
+        public IActionResult CreateEmployee(Employee_DTO_Get employee)
         {
             if(employee == null)
             {
                 return BadRequest("No Data Received");
             }   
-            _context.Employees.Add(employee);
+            _context.Employees.Add(new Employee
+            {
+                Name = employee.Name,
+                Position = employee.Position
+            });
             _context.SaveChanges();
             return Ok(new {message = "Add Successfully" });
         }
@@ -37,7 +41,16 @@ namespace CompanyManagmentSystem.Controllers
            var employees = _context.Employees.ToList();
             if (employees.Count == 0)
                 return Ok(new {isEmpty = true });
-           return Ok(new { isEmpty = false , employees});
+            var listOfEmployees = new List<Employee_DTO_Get>();
+            for (int i = 0; i < employees.Count; i++)
+            {
+                listOfEmployees.Add(new Employee_DTO_Get
+                {
+                    Name = employees[i].Name,
+                    Position = employees[i].Position
+                });
+            }
+            return Ok(new { isEmpty = false , listOfEmployees});
         }
 
         [HttpGet("{id}")]
@@ -46,6 +59,12 @@ namespace CompanyManagmentSystem.Controllers
             var emp = _context.Employees.FirstOrDefault(x => x.Id == id);
             if (emp == null)
                 return NotFound(new { message = "Emp Is Not Found" });
+
+            var employeeDTO = new Employee_DTO_Get
+            {
+                Name = emp.Name,
+                Position = emp.Position
+            };
 
             return Ok(new { message = "Found" , emp});
         }
